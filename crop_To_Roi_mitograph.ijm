@@ -103,4 +103,4 @@ for(roiIndex=0; roiIndex < numROIs; roiIndex++) // loop through ROIs
 
 run("Select None");
 print("Saved",numROIs,"cropped areas. Finished.");
-close();
+//close();
