@@ -18,6 +18,9 @@
 //		For each area you want to crop out, draw an ROI and press T to add to the ROI Manager.
 //		Then run the macro.
 
+
+// TODO: incorporate selectionType and nice flatten used in cropToRoi_ClearOutside macro
+
 // ---------- SETUP
 
 id = getImageID();
